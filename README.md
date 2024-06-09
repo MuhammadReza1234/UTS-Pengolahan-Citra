@@ -54,5 +54,11 @@ Dalam sistem ini terdapat beberapa program untuk mengolah citra gambar yaitu seb
    - Gunakan perintah `pip install matplotlib`
 
 3. **Jalankan kode program**
-   - Buka VScode, buat file baru kemudian ketikkan kode programnya, lalu jalankan dengan cara buka terminal ketikkan perintah berikut `streamlit run nama_file.py`
+   - Buka VScode, buat file baru `nama_file.py` kemudian ketikkan kode programnya, lalu jalankan dengan cara buka terminal ketikkan perintah berikut `streamlit run nama_file.py`
+
+4. **Upload Gambar**
+   - Klik button ``browse files`` untuk upload gambar
+
+5. **Penggunaan Fitur**
+   - Pilih salah satu fitur yang tersedia untuk melihat hasil pengolahan citra gambar 
 
