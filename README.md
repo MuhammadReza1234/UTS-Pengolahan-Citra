@@ -45,6 +45,8 @@ OpenCV (Open Source Computer Vision Library) adalah pustaka open-source yang dig
    - Gunakan perintah `pip install numpy`
    - Gunakan perintah `pip install matplotlib`
 
+3. **Jalankan kode program**
+   - Buka VScode, buat file baru kemudian ketikkan kode programnya, lalu jalankan dengan cara buka terminal ketikkan perintah berikut `streamlit run nama_file.py`
 
 ### Cara Penggunaan
 1. **Upload Gambar**
