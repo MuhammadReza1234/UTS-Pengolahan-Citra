@@ -63,9 +63,11 @@ Dalam sistem ini terdapat beberapa program untuk mengolah citra gambar yaitu seb
    - Pilih salah satu fitur yang tersedia untuk melihat hasil pengolahan citra gambar 
 
 ### Tampilan Sistem
-1. Tampilan Awal
+- Tampilan Awal
 
-<img width="960" alt="1" src="https://github.com/MuhammadReza1234/UTS-Pengolahan-Citra/assets/115516607/96b1251b-3839-45b8-96a7-fec5496ecb11">
+   <img width="960" alt="1" src="https://github.com/MuhammadReza1234/UTS-Pengolahan-Citra/assets/115516607/96b1251b-3839-45b8-96a7-fec5496ecb11">
+
+- 
 
 
 
