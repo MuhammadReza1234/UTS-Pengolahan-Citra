@@ -30,8 +30,11 @@
 
 ## Sistem Pengolahan Citra Gambar dengan OpenCV Menggunakan Streamlit
 
-### Deskripsi
-Aplikasi ini memungkinkan pengguna untuk melakukan beberapa manipulasi sederhana pada gambar yang diunggah, seperti konversi ke ruang warna HSV, menampilkan histogram, menampilkan kontur, serta menyesuaikan kecerahan dan kontras.
+### Pengenalan Streamlit
+Streamlit adalah kerangka kerja sumber terbuka (open-source) yang dirancang untuk memudahkan pembuatan aplikasi web interaktif secara langsung dari skrip Python. Kerangka kerja ini sangat populer di kalangan data scientist, machine learning engineers, dan pengembang karena kesederhanaan dan kecepatannya dalam mengubah skrip analisis data menjadi aplikasi web yang menarik.
+
+### Pengenalan OpenCV
+OpenCV (Open Source Computer Vision Library) adalah pustaka open-source yang digunakan untuk pemrosesan citra dan visi komputer. OpenCV dikembangkan untuk menyediakan infrastruktur yang efisien untuk aplikasi visi komputer dan machine learning.
 
 ### Cara Penggunaan
 1. **Upload Gambar**
