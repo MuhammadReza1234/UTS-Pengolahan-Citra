@@ -36,6 +36,10 @@ Streamlit adalah kerangka kerja sumber terbuka (open-source) yang dirancang untu
 ### Pengenalan OpenCV
 OpenCV (Open Source Computer Vision Library) adalah pustaka open-source yang digunakan untuk pemrosesan citra dan visi komputer. OpenCV dikembangkan untuk menyediakan infrastruktur yang efisien untuk aplikasi visi komputer dan machine learning.
 
+### Tutorial Penggunaan 
+1. **Install Streamlit lewat CMD windows**
+   - Gunakan perintah `pip install streamlit`
+
 ### Cara Penggunaan
 1. **Upload Gambar**
    - Unggah gambar dengan format JPG, JPEG, atau PNG menggunakan tombol "Pilih gambar...".
