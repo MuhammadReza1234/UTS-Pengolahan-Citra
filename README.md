@@ -40,6 +40,12 @@ OpenCV (Open Source Computer Vision Library) adalah pustaka open-source yang dig
 1. **Install Streamlit lewat CMD windows**
    - Gunakan perintah `pip install streamlit`
 
+2. **Install library OpenCV, numpy, matplotlib lewat CMD windows**
+   - Gunakan perintah `pip install cv2`
+   - Gunakan perintah `pip install numpy`
+   - Gunakan perintah `pip install matplotlib`
+
+
 ### Cara Penggunaan
 1. **Upload Gambar**
    - Unggah gambar dengan format JPG, JPEG, atau PNG menggunakan tombol "Pilih gambar...".
