@@ -102,3 +102,5 @@ Dalam sistem ini terdapat beberapa program untuk mengolah citra gambar yaitu seb
    <img width="960" alt="7" src="https://github.com/MuhammadReza1234/UTS-Pengolahan-Citra/assets/115516607/3703b714-b1bb-4488-a4d4-98284633331c">
 
 ---
+
+<h1 <p align="center"><b>======== Sekian Terima Kasih ==========</b></p></h1>
