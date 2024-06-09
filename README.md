@@ -62,3 +62,8 @@ Dalam sistem ini terdapat beberapa program untuk mengolah citra gambar yaitu seb
 5. **Penggunaan Fitur**
    - Pilih salah satu fitur yang tersedia untuk melihat hasil pengolahan citra gambar 
 
+### Tampilan Sistem
+- Tampilan Awal
+
+
+
