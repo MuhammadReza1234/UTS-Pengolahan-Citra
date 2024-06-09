@@ -36,6 +36,8 @@ Streamlit adalah kerangka kerja sumber terbuka (open-source) yang dirancang untu
 ### Pengenalan OpenCV
 OpenCV (Open Source Computer Vision Library) adalah pustaka open-source yang digunakan untuk pemrosesan citra dan visi komputer. OpenCV dikembangkan untuk menyediakan infrastruktur yang efisien untuk aplikasi visi komputer dan machine learning.
 
+---
+
 ### Fitur Sistem
 Dalam sistem ini terdapat beberapa program untuk mengolah citra gambar yaitu sebagai berikut:
 1. **Konversi ke Grayscale**
@@ -62,12 +64,41 @@ Dalam sistem ini terdapat beberapa program untuk mengolah citra gambar yaitu seb
 5. **Penggunaan Fitur**
    - Pilih salah satu fitur yang tersedia untuk melihat hasil pengolahan citra gambar 
 
+---
+
 ### Tampilan Sistem
 - Tampilan Awal
 
    <img width="960" alt="1" src="https://github.com/MuhammadReza1234/UTS-Pengolahan-Citra/assets/115516607/96b1251b-3839-45b8-96a7-fec5496ecb11">
 
-- 
+---
+- Upload Gambar
 
+   <img width="960" alt="2" src="https://github.com/MuhammadReza1234/UTS-Pengolahan-Citra/assets/115516607/8329979c-8805-4ef8-a992-2530928ccae6">
 
+---
+- Konversi ke Grayscale
 
+   <img width="960" alt="3" src="https://github.com/MuhammadReza1234/UTS-Pengolahan-Citra/assets/115516607/8ced89d7-3a72-4861-b604-da1e52a11ae4">
+
+---
+- Aplikasi Gaussian Blur
+
+   <img width="960" alt="4" src="https://github.com/MuhammadReza1234/UTS-Pengolahan-Citra/assets/115516607/f7f8ad5e-cdd5-4996-a82f-8772ad3b2702">
+
+---
+- Konversi ke Gambar Biner
+
+   <img width="960" alt="5" src="https://github.com/MuhammadReza1234/UTS-Pengolahan-Citra/assets/115516607/aa83d0d2-d8ba-4e81-a140-fdef37d34a23">
+
+---
+- Konversi ke Gambar Inverse Biner
+
+   <img width="960" alt="6" src="https://github.com/MuhammadReza1234/UTS-Pengolahan-Citra/assets/115516607/ab43c1bf-84be-4433-90c7-60e448876739">
+
+---
+- Tampilkan Histogram
+
+   <img width="960" alt="7" src="https://github.com/MuhammadReza1234/UTS-Pengolahan-Citra/assets/115516607/3703b714-b1bb-4488-a4d4-98284633331c">
+
+---
