@@ -36,6 +36,14 @@ Streamlit adalah kerangka kerja sumber terbuka (open-source) yang dirancang untu
 ### Pengenalan OpenCV
 OpenCV (Open Source Computer Vision Library) adalah pustaka open-source yang digunakan untuk pemrosesan citra dan visi komputer. OpenCV dikembangkan untuk menyediakan infrastruktur yang efisien untuk aplikasi visi komputer dan machine learning.
 
+### Fitur Sistem
+Dalam sistem ini terdapat beberapa program untuk mengolah citra gambar yaitu sebagai berikut:
+1. **Konversi ke Grayscale**
+2. **Aplikasi Gaussian Blur**
+3. **Konversi ke Gambar Biner**
+4. **Konversi ke Gambar Inverse Biner**
+5. **Tampilkan Histogram**
+
 ### Tutorial Penggunaan 
 1. **Install Streamlit lewat CMD windows**
    - Gunakan perintah `pip install streamlit`
@@ -48,23 +56,3 @@ OpenCV (Open Source Computer Vision Library) adalah pustaka open-source yang dig
 3. **Jalankan kode program**
    - Buka VScode, buat file baru kemudian ketikkan kode programnya, lalu jalankan dengan cara buka terminal ketikkan perintah berikut `streamlit run nama_file.py`
 
-### Cara Penggunaan
-1. **Upload Gambar**
-   - Unggah gambar dengan format JPG, JPEG, atau PNG menggunakan tombol "Pilih gambar...".
-
-2. **Konversi ke HSV**
-   - Tekan tombol "Konversi ke HSV" untuk mengubah gambar yang diunggah ke dalam ruang warna HSV.
-
-3. **Tampilkan Histogram**
-   - Tekan tombol "Tampilkan Histogram" untuk menampilkan histogram dari gambar yang diunggah.
-
-4. **Tampilkan Contour**
-   - Tekan tombol "Tampilkan Contour" untuk menampilkan kontur dari gambar yang diunggah.
-
-5. **Sesuaikan Kecerahan dan Kontras**
-   - Geser slider untuk menyesuaikan kecerahan dan kontras gambar.
-   - Tekan tombol "Terapkan" untuk menerapkan perubahan ke gambar.
-
-### Cara Penggunaan
-- Pastikan instalasi Streamlit (`pip install streamlit`) dan OpenCV (`pip install opencv-python`) sudah dilakukan sebelum menjalankan aplikasi.
-- Jalankan program dengan menjalankan perintah `streamlit run nama_file.py` di terminal/command prompt.
